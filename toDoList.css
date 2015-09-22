@@ -1,0 +1,26 @@
+h1 {
+  margin: 20px;
+  color: #7d82b0;
+}
+
+button {
+  display: inline-block;
+  height: 33px;
+  border-radius: 5px;
+  margin-top:2.5px;
+  margin-left: 5px;
+}
+
+output {
+  border: solid #d3d3d3 1px;
+  height: auto;
+  width: 50%;
+  float: left;
+  text-align: center;
+  padding-bottom: 30px;
+  border-radius: 5px;
+}
+
+.completed {
+  text-decoration: line-through;
+}
