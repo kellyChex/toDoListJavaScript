@@ -9,6 +9,7 @@ button {
   border-radius: 5px;
   margin-top:2.5px;
   margin-left: 5px;
+  float: left;
 }
 
 output {
@@ -17,7 +18,8 @@ output {
   width: 50%;
   float: left;
   text-align: center;
-  padding-bottom: 30px;
+  word-wrap: break-word;
+  /*padding-bottom: 30px;*/
   border-radius: 5px;
 }
 
